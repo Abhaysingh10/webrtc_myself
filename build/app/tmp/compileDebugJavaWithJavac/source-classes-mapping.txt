@@ -1,0 +1,4 @@
+com/example/webrtc_myself/BuildConfig.java
+ com.example.webrtc_myself.BuildConfig
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
